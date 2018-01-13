@@ -1,2 +1,2 @@
-# firstByte_static_sites
-hosting static websites
+# firstByte-hosting-static-sites
+Demo of hosting static websites.
